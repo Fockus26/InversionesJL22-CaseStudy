@@ -1,4 +1,4 @@
-# 🛒 InversionesJL22 – WooCommerce Customizations
+# 🛒 InversionesJL22 – Case Study on WooCommerce Customizations
 
 Advanced WooCommerce customizations for invoice automation, QR-based workflows, and role-based store management.
 
