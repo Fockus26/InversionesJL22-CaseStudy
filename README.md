@@ -70,6 +70,12 @@ themes/
 
 ---
 
+## 📸 Showcase
+
+_(Screenshots, GIFs, or demo videos will be added here)_
+
+---
+
 ## 📖 Case Study
 
 This project was delivered to a Colombian client requiring stricter control over WooCommerce orders and documents. By combining PDF invoice customization, QR code automation, and role-based restrictions, the store achieved a more secure and efficient workflow.
